@@ -13,3 +13,8 @@ It demonstrates how to:
 - Clone the repository  ```git clone https://github.com/AliAhmed3/orangehrm_api_rest_Assured.git```
 - Install dependencies ```mvn clean install```
 - run by ```mvn clean test```
+
+# 📷 Results
+<div>
+ <img  src="Results.jpg" />
+ </div>
