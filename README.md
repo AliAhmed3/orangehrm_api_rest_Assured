@@ -4,13 +4,12 @@
 
 This project contains API automation tests for the OrangeHRM Demo Site using Rest-Assured and TestNG.
 It demonstrates how to:
-
-    Login via API
-    Add a new candidate
-    Delete a candidate
+- Login via API
+- Add a new candidate
+- Delete a candidate
 
 🚀 How to run
 
-    Clone the repository git clone https://github.com/AliAhmed3/orangehrm_api_rest_Assured.git
-    Install dependencies mvn clean install
-    run by mvn clean test
+- Clone the repository  ```git clone https://github.com/AliAhmed3/orangehrm_api_rest_Assured.git```
+- Install dependencies ```mvn clean install```
+- run by ```mvn clean test```
