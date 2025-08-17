@@ -16,5 +16,5 @@ It demonstrates how to:
 
 # 📷 Results
 <div>
- <img  src="Results.jpg" />
+ <img  src="Result.jpg" />
  </div>
